@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My chamo Samara Desenvolvedora de Software</h2>
+<h2 align="left">Olá!Eu sou a Samara Povoas👋</h2>
 
 ###
 
