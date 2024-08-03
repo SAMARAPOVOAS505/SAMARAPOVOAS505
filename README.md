@@ -43,8 +43,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/SAMARAPOVOAS505/SAMARAPOVOAS505/output/snake.svg" alt="Snake animation" />
-
-###
